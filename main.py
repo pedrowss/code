@@ -30,7 +30,6 @@ def reverse(x):
 
     # if(x[len(x)-1] == '-'):
     #     x = x[:len(x) - 1]
-    #     x = "-" + x
 
     return int(x)
 
