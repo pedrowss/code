@@ -29,7 +29,6 @@ def reverse(x):
         x = x[1:len(x)]
 
     # if(x[len(x)-1] == '-'):
-    #     x = x[:len(x) - 1]
 
     return int(x)
 
