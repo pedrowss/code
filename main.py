@@ -36,8 +36,7 @@ def reverse(x):
 
 
 x2 = 1534236469
+# 1534236469
 # x2 = -123
 # x = str(x2)
 print(reverse(x2))
-
-# 1534236469
